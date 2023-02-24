@@ -1,13 +1,7 @@
 {
-  "name": "starter-micro-api",
-  "version": "1.0.0",
-  "description": "Cyclic.sh micro api starter",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
+    "minecraft-protocol": "^1.41.0",
+    "mineflayer": "^4.8.1",
+    "mineflayer-pathfinder": "^2.4.2"
   }
 }
